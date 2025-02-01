@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff; /* White background */
+    color: #000000; /* Black text */
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #cccccc; /* Light gray background */
+    color: #000000; /* Black text */
+    padding: 20px;
+    text-align: center;
+}
+ 
+
+h1 {
+    font-size: 2em; /* Standard title size */
+    margin: 0; /* Remove default margin */
+}
+
+nav {
+    background-color: #dddddd; /* Slightly darker gray */
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none; /* Remove bullet points */
+    padding: 0; /* Remove padding */
+    text-align: center; /* Center the navigation items */
+}
+
+nav ul li {
+    display: inline; /* Inline items for horizontal layout */
+    margin-right: 15px; /* Space between items */
+}
+
+nav ul li a {
+    color: #000000; /* Black text for links */
+    text-decoration: none; /* Remove underline */
+}
+
+.container {
+    padding: 20px; /* Padding for the main content */
+}
+
+.podcast-info {
+    background-color: #f0f0f0; /* Light gray background for info section */
+    padding: 15px; /* Padding for content */
+    margin-bottom: 20px; /* Space below the info section */
+}
+
+h2 {
+    font-size: 1.5em; /* Standard subheading size */
+}
+
+footer {
+    text-align: center; /* Centered text */
+    padding: 10px; /* Padding for footer */
+    background-color: #cccccc; /* Light gray background */
+    color: #000000; /* Black text */
+}
+
+.seasons {
+    margin-top: 20px; /* Space above seasons section */
+    background-color: #e0e0e0; /* Light gray background */
+    padding: 10px; /* Padding for content */
+}
+
+.seasons h3 {
+    font-size: 1.2em; /* Standard size for season titles */
+    margin-top: 0; /* Remove top margin */
+}
+
+.seasons p {
+    font-size: 1em; /* Standard size for album descriptions */
+}
